@@ -43,14 +43,18 @@ lumière, les textiles et la symétrie.
   le lit pour ancrer la zone nuit.
 - **Grand tapis** jute + laine débordant de 60 cm de chaque côté du lit.
 
-### Mur TV (photo 1 — actuel mur table à repasser)
+### Mur commode + TV discrète (photo 1 — actuel mur table à repasser)
+
+> Révision v2 : la TV ne doit pas être mise en avant — c'est une chambre
+> pour se reposer. Pas de meuble TV imposant.
 
 - Table à repasser, fer et ventilateur sur pied **sortent de la chambre**
   (vers le dressing / buanderie).
-- **TV TCL fixée au mur**, câbles encastrés dans une goulotte peinte.
-- **Console basse flottante en noyer** sous la TV.
-- Paire de **cadres d'art abstrait** aux tons terracotta/olive + un grand
-  **palmier d'intérieur (areca)** en pot pour adoucir l'angle.
+- **Commode en noyer à 4 tiroirs** (rangement du couple), plateau dégagé :
+  un vase, une bougie, c'est tout.
+- **TV TCL fixée au mur au-dessus de la commode**, cadre fin noir, câbles
+  encastrés — elle se fond dans le mur comme un tableau, sans meuble dédié.
+- Un grand **palmier d'intérieur (areca)** en pot pour adoucir l'angle.
 - Le ventilateur sur pied est remplacé par un **ventilateur de plafond
   silencieux** ou un modèle mural discret.
 
@@ -59,8 +63,15 @@ lumière, les textiles et la symétrie.
 - **Rideaux sur toute la largeur du mur**, du plafond au sol : voilage ivoire
   + rideau occultant lin écru, sur tringle noire existante rallongée —
   la fenêtre paraîtra 3× plus grande.
+- **Coin gauche de la fenêtre : petite coiffeuse en noyer avec miroir rond**
+  et tabouret bouclé — le coin beauté de madame, éclairé par la lumière
+  naturelle de la fenêtre.
+- **Petit meuble fermé pour les sacs à main** (colonne étroite à portes ou
+  cabinet en rotin tressé) côté droit — tout rangé derrière des portes pour
+  garder le calme visuel.
 - **Coin lecture** : fauteuil rotin + coussin bouclé, liseuse arquée noire,
-  petite table d'appoint, plante verte.
+  plante verte (si la largeur du mur le permet, sinon le fauteuil migre près
+  de la commode).
 - Plus aucun vêtement suspendu ni posé au sol (tout part au dressing).
 
 ### Lumière (la clé de la détente)
@@ -128,6 +139,25 @@ side table with a book and a ceramic cup, and a leafy potted plant. Walls in
 warm matte off-white, tidy tiled floor with a soft rug. Calm dusk ambiance.
 Captured on a Sony A7R IV, 24mm lens at f/8, Architectural Digest interior
 feature.
+```
+
+### Vue d'ensemble — fusion des trois murs (Gemini, avec les 3 photos jointes)
+
+```
+Using these three photos of the SAME bedroom (bed wall, opposite wall, window
+wall), create ONE single wide-angle photo showing the ENTIRE redesigned room,
+keeping the real architecture: ceiling soffit with recessed spotlights, window
+with its metal grille, tiled floor. Serene boutique-hotel style for a couple.
+Bed wall in soft limewash greige: king bed with tall oatmeal boucle headboard,
+white percale bedding, rust-terracotta throw, olive cushions, matching walnut
+nightstands with warm ceramic lamps. Opposite wall: a walnut chest of drawers
+with a slim flat TV mounted on the wall above it — the TV MUST be discreet and
+blend into the wall like a dark frame, NO bulky TV unit. Window wall:
+floor-to-ceiling ivory sheer and oatmeal linen curtains on a black rod; in the
+LEFT corner of the window a small walnut vanity with a round mirror and a
+boucle stool; on the right a slim closed rattan cabinet for handbags. Jute and
+wool rug, tall areca palm, warm 2700K evening light. Perfectly tidy.
+Architectural Digest interior.
 ```
 
 ### Option B — Génération libre (sans photo source)
