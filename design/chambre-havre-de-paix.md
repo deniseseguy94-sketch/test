@@ -150,9 +150,11 @@ keeping the real architecture: ceiling soffit with recessed spotlights, window
 with its metal grille, tiled floor. Serene boutique-hotel style for a couple.
 Bed wall in soft limewash greige: king bed with tall oatmeal boucle headboard,
 white percale bedding, rust-terracotta throw, olive cushions, matching walnut
-nightstands with warm ceramic lamps. Opposite wall: a walnut chest of drawers
-with a slim flat TV mounted on the wall above it — the TV MUST be discreet and
-blend into the wall like a dark frame, NO bulky TV unit. Window wall:
+nightstands with warm ceramic lamps. On the wall DIRECTLY FACING the bed: a
+walnut chest of drawers with a slim flat TV mounted on the wall above it — the
+TV MUST stay discreet and blend into the wall like a dark frame, NO bulky TV
+unit. The wall to the LEFT of the bed leads to the dressing room: keep it
+clear, no furniture against it, just a framed artwork. Window wall:
 floor-to-ceiling ivory sheer and oatmeal linen curtains on a black rod; in the
 LEFT corner of the window a small walnut vanity with a round mirror and a
 boucle stool; on the right a slim closed rattan cabinet for handbags. Jute and
