@@ -74,6 +74,21 @@ lumière, les textiles et la symétrie.
   de la commode).
 - Plus aucun vêtement suspendu ni posé au sol (tout part au dressing).
 
+### Variante hypoallergénique (rhinite allergique — retenue)
+
+> Madame souffre de rhinite allergique : on supprime les surfaces textiles
+> non lavables qui piègent poussière et acariens, sans perdre le style.
+
+- **Tête de lit bois massif à lattes verticales**, finition huilée mate,
+  à la place du bouclé tapissé (l'actuelle tête en bois peut être poncée
+  et huilée). Surface lisse, un coup de chiffon humide suffit.
+- **Tapis coton tissé plat lavable en machine**, ton sable, à la place
+  du jute + laine.
+- **Housses anti-acariens** sur matelas et oreillers + percale lavable 60 °C.
+- **Tabouret de coiffeuse bois + cannage** à la place du bouclé.
+- Terreau du palmier couvert de **galets** (anti-moisissures), ou
+  remplacement par un vase de branchages secs.
+
 ### Lumière (la clé de la détente)
 
 - Spots existants sur **variateur**, ampoules remplacées en **2700 K**.
